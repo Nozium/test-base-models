@@ -1,0 +1,77 @@
+## Multi-Modal
+- [ ] GATO
+- [ ] CLIP
+- [ ] Vilbert
+- [ ] UNITER
+- [ ] HERO
+- [ ] OSCAR
+- [ ] VisualBERT
+## Blockchain with LLM
+- [ ] Alethea AI
+- [ ] Attrace
+- [ ] Codex Protocol
+- [ ] Veracity Protocol
+- [ ] WISeCoin
+- [ ] Bitcoin-NG
+- [ ] OmniLedger
+- [ ] ByzCoin
+- [ ] Monax
+- [ ] LibraBFT
+## NLP / language / ideas
+- [ ] whisper
+- [ ] gpt-3
+- [ ] gpt-3.5
+    - [ ] NaC / Chat-GPT
+    - [ ] NaC / Microsoft new bing(Prometheus)
+    - [ ] GPT-index
+    - [ ] T5
+- [ ] PEGASUS
+- [ ] GPT-4
+- [ ] T5
+- [ ] BERT
+- [ ] ALBERT
+- [ ] RoBERTa
+## supports of creating
+- [ ] OpenAI Codex
+- [ ] GitHub Copilot
+- [ ] CodeGPT
+- [ ] Git GPT-2
+- [ ] Koder
+- [ ] github copilot
+- [ ] Chat-GPT with github
+- [ ] DeepTabNine
+- [ ] CodeGPT
+- [ ] GPTune
+## Audio
+- [ ] VQ-VAE
+- [ ] Wavenet
+- [ ] Tacotron 2
+- [ ] MelGAN
+- [ ] HiFi-GAN
+- [ ] Tacotron 2
+- [ ] DeepSpeech
+- [ ] Wav2vec2
+- [ ] VoiceLoop
+- [ ] AudioBERT
+## computer visions
+- [ ] DETR
+- [ ] Swin Transformer
+- [ ] SimCLR
+- [ ] DALL-E
+- [ ] Vision Permutator
+- [ ] Stable Diffusion
+- [ ] Galileo AI
+- [ ] Swin Transformer
+- [ ] DALL-E
+- [ ] CLIP
+## time series
+- [ ] Informer
+- [ ] TimeSeriesTransformer
+- [ ] DeepAR
+- [ ] LSTNet
+- [ ] Temporal Fusion Transformer
+- [ ] Informer
+- [ ] DeepAR
+- [ ] WaveNet
+- [ ] LSTNet
+- [ ] LSTM-FCN
